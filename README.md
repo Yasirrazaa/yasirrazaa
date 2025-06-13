@@ -117,7 +117,7 @@ I am an aspiring AI Engineer with a strong foundation in Artificial Intelligence
 
 <p align="left">
 <a href="https://linkedin.com/in/yasir-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasir-abdali-9b78a6229" height="30" width="40" /></a>
-<a href="https://kaggle.com/yasirabdali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yasirabdali" height="30" width="40" /></a>
+<a href="https://kaggle.com/yasirabdaali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yasirabdali" height="30" width="40" /></a>
 </p>
 
 ---
