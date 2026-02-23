@@ -1,135 +1,126 @@
-# Hi there 👋, I'm Yasir Raza
+<div align="center">
 
-### An Aspiring AI Engineer from Pakistan
+# Yasir Raza
+### AI Engineer · LLM Agents · Voice AI · MCP Tooling
 
----
+[![PyPI Downloads](https://img.shields.io/badge/PyPI%20Downloads-5.7K%2B-blue?logo=pypi)](https://pypi.org/user/yasirabdali6/)
+[![GitHub Repos](https://img.shields.io/badge/Repos-51-lightgrey?logo=github)](https://github.com/yasirrazaa)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?logo=kaggle)](https://www.kaggle.com/yasirabdaali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/yasir-raza/)
 
-## About Me
+**I build AI agents, LLM-powered tools, and voice systems that actually ship —**  
+**backed by open-source code with 5,700+ downloads.**
 
-I am an aspiring AI Engineer with a strong foundation in Artificial Intelligence, Machine Learning, and Deep Learning. I am skilled in implementing and fine-tuning models like GPT and BERT using Python and open-source libraries. My experience includes optimizing model performance with techniques such as quantization and Mixture of Experts. I am proficient in developing AI applications, including NLP pipelines and classification systems, and I aim to leverage my expertise to build scalable, production-ready solutions.
+📍 Islamabad, Pakistan · 📧 yasirabdali6@gmail.com
 
-- 🔭 I’ve worked at **Teamlift.co**
-- 🌱 I’m currently learning **Agentic AI, MLOPs, Observability, Scalability**
-- 👨‍💻 All of my projects are available at [yasirrazaa.github.io](https://yasirrazaa.github.io)
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, LLMs, and MLOps, Agentic AI**
-- 📫 How to reach me: **yasirabdali6@gmail.com**
-- 📄 Know about my experiences: [yasirrazaa.github.io](https://yasirrazaa.github.io)
-
----
-
-## Skills
-
-### Programming Languages:
-- Python
-- SQL
-
-### Tools & Libraries:
-- Docker
-- Git
-- GitHub Actions
-- Linux
-- Bash
-- pandas
-- NumPy
-- PyTorch
-- TensorFlow
-- Unsloth
-- Transformers
-- FastAPI
-- Streamlit
-- Scikit-learn
-- Plotly
-- Langchain
-- LlamaIndex
-
-### Databases:
-- MySQL
-- PostgreSQL
-
-### Languages:
-- Urdu (Native)
-- English (Fluent)
+</div>
 
 ---
 
-## Experience
+## 🚀 What I Build
 
-### Data Science Intern at Teamlift (Jul 2023 - Dec 2023)
-- Collected data from diverse sources using web scraping and API integration.
-- Preprocessed and transformed messy web data for further analysis.
-- Applied Named Entity Recognition (NER) to extract skills from job descriptions.
-- Prepared data for time series forecasting and built models to predict future values.
-- Collaborated with data scientists and engineers to design and implement data-driven solutions.
-
-### Junior Data Analyst at Teamlift (Jan 2024 - Dec 2024)
-- Built end-to-end pipeline to collect, process, and annotate large amounts of data.
+| Area | Tools & Frameworks |
+|------|-------------------|
+| **LLM Agents & Orchestration** | LangGraph, LangChain, LlamaIndex, FastMCP |
+| **Voice & Multimodal AI** | ElevenLabs, Fish-Speech, ChatterBox, Gemini |
+| **Model Fine-tuning** | LoRA, QLoRA, Unsloth, PEFT, Transformers |
+| **Deployment & Infra** | RunPod serverless, Docker, FastAPI, AWS |
+| **RAG & Memory** | Chroma, semantic chunking, hybrid retrieval |
 
 ---
 
-## Education
+## 📦 Featured Projects
 
-### Bachelor's Degree, Software Engineering at National University of Modern Languages, Islamabad, Pakistan (Sep 2022 - Jul 2026)
-- Coursework: Statistics & Probability, Artificial Intelligence, Databases
+### 🔌 [NotebookLLM MCP Server](https://github.com/yasirrazaa/notebookllm_mcp) · *PyPI · 5.7K+ Downloads · Listed on LobeHub*
+Production-ready MCP server for efficient LLM interactions with Jupyter Notebooks. Converts `.ipynb` files to plain text before sending to the LLM — cutting token usage dramatically.
 
-### Advanced LLM Bootcamp at NUST, Islamabad, Pakistan (Jul 2024 - Aug 2024)
-
----
-
-## Projects
-
-### Latex to Python Code
-- Generated synthetic data using LLMs and validated generated data using Sympy.
-- Fine-tuned Numiba-math-7B.
-
-### Published MCP Server
-- Built and published an MCP server on PyPi to efficiently work with Jupyter Notebooks when using AI for coding.
-
-### Fish-speech
-- Deployed the SOTA voice agent on Runpod as a serverless endpoint.
-
-### RAG Chatbot
-- Built a chatbot to chat with documents.
-
-### Realtime Facial Emotion Detection
-- Implemented a real-time emotion detection using CNN, OpenCV, Streamlit, and WebRTC.
-
-### WhatsApp Chat Analysis
-- Built a web app to analyze group and individual chats from a text file.
-
-### Word Level Sign Language Recognition
-- Helped a researcher achieve SOTA results on WLASL dataset.
-
-### ChatterBox
-- Deployed the SOTA voice model ChatterBox that beats Eleven Labs on Runpod as a serverless endpoint.
+```bash
+pip install notebookllm_mcp
+```
 
 ---
 
-## Certifications
+### 🤖 Telegram Multimodal Agent
+LangGraph agent with cloned voice (ElevenLabs), image understanding (Gemini), and RAG memory (Chroma). Accepts text, voice, and image input — responds in audio or text with a persona-aligned voice.
 
-- Advanced LLM Bootcamp: NUST & Sky Electric
-- Generative AI Fundamentals, Generative AI, Responsible AI, Intro to Large Language Models: Google
-- Data Scientist Track: DataCamp
-- Python: Kaggle
+**Stack:** LangGraph · Telegram API · Gemini · ElevenLabs · Chroma
 
 ---
 
-## Connect with me:
+### 📱 WhatsApp Multimodal Agent
+LangGraph + Twilio agent handling text, voice, and image inputs. Outputs contextual, persona-grounded responses using vector memory.
 
-<p align="left">
-<a href="https://linkedin.com/in/yasir-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasir-abdali-9b78a6229" height="30" width="40" /></a>
-<a href="https://kaggle.com/yasirabdaali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yasirabdali" height="30" width="40" /></a>
-</p>
+**Stack:** LangGraph · Twilio · Gemini · Chroma
 
 ---
 
-## Languages and Tools:
+### 🧮 LaTeX → Executable Python (Fine-tuned LLM)
+Fine-tuned NuminaMath-7B with LoRA to generate executable Python code from LaTeX math. Includes synthetic data generation pipeline and SymPy-based validation.
 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Stack:** Unsloth · QLoRA · SymPy · HuggingFace
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasirrazaa&show_icons=true&locale=en&layout=compact" alt="yasirrazaa" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirrazaa&show_icons=true&locale=en" alt="yasirrazaa" /></p>
+### 🔊 Voice TTS Deployments (Fish-Speech & ChatterBox)
+Deployed state-of-the-art open-source TTS models as serverless endpoints on RunPod using Docker multi-stage builds with chunked long-text processing.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirrazaa&" alt="yasirrazaa" /></p>
+---
+
+### 🧠 Intelloquium Autonomous Agent
+Autonomous research agent with real-time voice/video assistance, browser automation, full-stack software generation, and MCP server extensibility.
+
+---
+
+## 📊 Stats at a Glance
+
+| Metric | Value |
+|--------|-------|
+| PyPI Package Downloads | 5,700+ |
+| Published PyPI Packages | 2 (notebookllm, notebookllm_mcp) |
+| GitHub Repositories | 51 |
+| Remote Work Experience | 18 months (Teamlift, US) |
+| Kaggle Status | Expert |
+| NER pipeline scale | 100,000+ job descriptions |
+
+---
+
+## 🏢 Experience
+
+**Junior Data Scientist — Teamlift** *(US Remote · Jan 2024 – Dec 2024)*  
+Built end-to-end automated data pipelines with Human-in-the-Loop design. Engineered prompts for skill extraction and implemented function calling for ambiguous skill verification.
+
+**ML Intern — Teamlift** *(US Remote · Jul 2023 – Dec 2023)*  
+Web scraping at scale (Scrapy, Playwright, BeautifulSoup), NER on 100K+ job descriptions, time-series forecasting for job trend prediction.
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.Sc. Software Engineering** — NUML, Islamabad *(Graduating 2026)*
+- **Advanced LLM Bootcamp** — NUST & Sky Electric *(2024)*
+- Google: Generative AI Fundamentals · Responsible AI · LLMs
+- DataCamp: Data Scientist Track · Kaggle Expert
+
+---
+
+## 🤝 Work With Me
+
+I'm available for freelance projects in:
+- Custom LLM agent systems (LangGraph, LangChain)
+- Voice AI & multimodal agents
+- LLM fine-tuning (LoRA/QLoRA/Unsloth)
+- MCP server / tool development
+- RAG chatbots & document QA systems
 
 
+📬 **Email:** yasirabdali6@gmail.com  
+
+💼 **Upwork:** [upwork.com/freelancers/~0136d3079a657bfcbb](https://www.upwork.com/freelancers/~0136d3079a657bfcbb)
+
+💼 **Fiverr:** [fiverr.com/sellers/yasirrazaa](https://www.fiverr.com/sellers/yasirrazaa)
+
+🔗 **LinkedIn:** [linkedin.com/in/yasir-raza](https://www.linkedin.com/in/yasir-raza/)
+
+🔗 **Kaggle:** [kaggle.com/yasirabdaali](https://www.kaggle.com/yasirabdaali)
+
+🔗 **PyPi:** [pypi.org/user/yasirabdali6](https://pypi.org/user/yasirabdali6)
