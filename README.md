@@ -31,11 +31,11 @@
 
 ## 📦 Featured Projects
 
-### 🔌 [NotebookLLM MCP Server](https://github.com/yasirrazaa/notebookllm_mcp) · *PyPI · 5.7K+ Downloads · Listed on LobeHub*
+### 🔌 [NotebookLLM](https://github.com/yasirrazaa/notebookllm) · *PyPI · 8K+ Downloads (Combined for notebookllm and mcp server) · Listed on LobeHub*
 Production-ready MCP server for efficient LLM interactions with Jupyter Notebooks. Converts `.ipynb` files to plain text before sending to the LLM — cutting token usage dramatically.
 
 ```bash
-pip install notebookllm_mcp
+pip install notebookllm[all]
 ```
 
 ---
