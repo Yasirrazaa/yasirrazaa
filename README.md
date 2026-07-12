@@ -75,12 +75,10 @@ Autonomous research agent with real-time voice/video assistance, browser automat
 
 | Metric | Value |
 |--------|-------|
-| PyPI Package Downloads | 5,700+ |
+| PyPI Package Downloads | 8,000+ |
 | Published PyPI Packages | 2 (notebookllm, notebookllm_mcp) |
-| GitHub Repositories | 51 |
 | Remote Work Experience | 18 months (Teamlift, US) |
 | Kaggle Status | Expert |
-| NER pipeline scale | 100,000+ job descriptions |
 
 ---
 
