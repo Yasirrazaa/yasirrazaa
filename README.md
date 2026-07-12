@@ -22,17 +22,17 @@
 | Area | Tools & Frameworks |
 |------|-------------------|
 | **LLM Agents & Orchestration** | LangGraph, LangChain, LlamaIndex, FastMCP |
-| **Voice & Multimodal AI** | ElevenLabs, Fish-Speech, ChatterBox, Gemini |
+| **Voice & Multimodal AI** | ElevenLabs, Livekit, ChatterBox, Gemini |
 | **Model Fine-tuning** | LoRA, QLoRA, Unsloth, PEFT, Transformers |
 | **Deployment & Infra** | RunPod serverless, Docker, FastAPI, AWS |
-| **RAG & Memory** | Chroma, semantic chunking, hybrid retrieval |
+| **RAG & Memory** | Qdrant, Langchain, LLama Index, Postgresql (pgvector) |
 
 ---
 
 ## 📦 Featured Projects
 
 ### 🔌 [NotebookLLM](https://github.com/yasirrazaa/notebookllm) · *PyPI · 8K+ Downloads (Combined for notebookllm and mcp server) · Listed on LobeHub*
-Production-ready MCP server for efficient LLM interactions with Jupyter Notebooks. Converts `.ipynb` files to plain text before sending to the LLM — cutting token usage dramatically.
+Production-ready notebook tool built for agents with a CLI,MCP server and an agent skill. It supports 8+ notebook formats like ipynb,deepnote and marimo etc. It like async cell execution, streaming for large files,batch conversion and so on.
 
 ```bash
 pip install notebookllm[all]
