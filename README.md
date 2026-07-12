@@ -3,7 +3,7 @@
 # Yasir Raza
 ### AI Engineer · LLM Agents · Voice AI · MCP Tooling
 
-[![PyPI Downloads](https://img.shields.io/badge/PyPI%20Downloads-5.7K%2B-blue?logo=pypi)](https://pypi.org/user/yasirabdali6/)
+[![PyPI Downloads](https://img.shields.io/badge/PyPI%20Downloads-8K%2B-blue?logo=pypi)](https://pypi.org/user/yasirabdali6/)
 [![GitHub Repos](https://img.shields.io/badge/Repos-51-lightgrey?logo=github)](https://github.com/yasirrazaa)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?logo=kaggle)](https://www.kaggle.com/yasirabdaali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/yasir-raza/)
