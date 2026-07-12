@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/yasir-raza/)
 
 **I build AI agents, LLM-powered tools, and voice systems that actually ship —**  
-**backed by open-source code with 5,700+ downloads.**
+**backed by open-source code with 8,000+ downloads.**
 
 📍 Islamabad, Pakistan · 📧 yasirabdali6@gmail.com
 
