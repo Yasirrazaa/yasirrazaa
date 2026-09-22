@@ -1,124 +1,118 @@
 <div align="center">
-
-# Yasir Raza
-### AI Engineer · LLM Agents · Voice AI · MCP Tooling
-
-[![PyPI Downloads](https://img.shields.io/badge/PyPI%20Downloads-8K%2B-blue?logo=pypi)](https://pypi.org/user/yasirabdali6/)
-[![GitHub Repos](https://img.shields.io/badge/Repos-51-lightgrey?logo=github)](https://github.com/yasirrazaa)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?logo=kaggle)](https://www.kaggle.com/yasirabdaali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/yasir-raza/)
-
-**I build AI agents, LLM-powered tools, and voice systems that actually ship —**  
-**backed by open-source code with 8,000+ downloads.**
-
-📍 Islamabad, Pakistan · 📧 yasirabdali6@gmail.com
-
+  <h1>Yasir Raza</h1>
+  <h3>AI Engineer · Research · Systems & Infrastructure</h3>
+  <p><i>"I don't just wrap APIs. I build the evaluation harnesses, the CUDA kernels, and the 7,000-test CI pipelines that make AI reliable in production."</i></p>
+  
+  <p>
+    <a href="https://yasirrazaa.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/yasir-raza"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://pypi.org/user/yasirabdali6/"><img src="https://img.shields.io/badge/PyPI-10K%2B Downloads-3775A9?style=flat-square&logo=pypi&logoColor=white" /></a>
+    <a href="https://www.kaggle.com/yasirabdaali"><img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-## 🚀 What I Build
+### 👨‍💻 The Short Version
+I am an **AI & Research Engineer** bridging the gap between cutting-edge LLM research and hardened production infrastructure. With 1.5+ years of remote experience on US-based teams, I specialize in **Agentic Systems, RLVR (Rule-Based Reinforcement Learning), and GPU-optimized Inference**. 
 
-| Area | Tools & Frameworks |
-|------|-------------------|
-| **LLM Agents & Orchestration** | LangGraph, LangChain, LlamaIndex, FastMCP |
-| **Voice & Multimodal AI** | ElevenLabs, Livekit, ChatterBox, Gemini |
-| **Model Fine-tuning** | LoRA, QLoRA, Unsloth, PEFT, Transformers |
-| **Deployment & Infra** | RunPod serverless, Docker, FastAPI, AWS |
-| **RAG & Memory** | Qdrant, Langchain, LLama Index, Postgresql (pgvector) |
+Whether it's ranking **13th in Berkeley's AgentBeats Security Arena**, cutting TTS inference latency by **4.5x via CUDA Graphs**, or authoring **7,275+ Pytest functions** to guarantee reliability, I ship end-to-end systems that scale.
 
 ---
 
-## 📦 Featured Projects
+### 🧰 Core Competencies
 
-### 🔌 [NotebookLLM](https://github.com/yasirrazaa/notebookllm) · *PyPI · 8K+ Downloads (Combined for notebookllm and mcp server) · Listed on LobeHub*
-Production-ready notebook tool built for agents with a CLI,MCP server and an agent skill. It supports 8+ notebook formats like ipynb,deepnote and marimo etc. It like async cell execution, streaming for large files,batch conversion and so on.
-
-```bash
-pip install notebookllm[all]
-```
-
----
-
-### 🤖 Telegram Multimodal Agent
-LangGraph agent with cloned voice (ElevenLabs), image understanding (Gemini), and RAG memory (Chroma). Accepts text, voice, and image input — responds in audio or text with a persona-aligned voice.
-
-**Stack:** LangGraph · Telegram API · Gemini · ElevenLabs · Chroma
+| 🧠 AI & Research | ⚙️ Systems & Backend | 🛡️ Quality & MLOps |
+| :--- | :--- | :--- |
+| LLM Agents & MCP Tooling | FastAPI, WebSockets, AsyncIO | Pytest (7,200+ tests), CI/CD |
+| GRPO / RLVR (TRL), LoRA | Docker, RunPod Serverless, AWS | OpenTelemetry, SigNoz Tracing |
+| RAG, Agent Memory, Red-Teaming | CUDA Graphs, bfloat16, KV-Cache | Ruff, Mypy, 93% Coverage Gates |
+| PyTorch, Transformers, Whisper | PostgreSQL (asyncpg), Redis, S3 | Execution-based Eval Harnesses |
 
 ---
 
-### 📱 WhatsApp Multimodal Agent
-LangGraph + Twilio agent handling text, voice, and image inputs. Outputs contextual, persona-grounded responses using vector memory.
+### 🌟 Featured Work & Impact
 
-**Stack:** LangGraph · Twilio · Gemini · Chroma
-
----
-
-### 🧮 LaTeX → Executable Python (Fine-tuned LLM)
-Fine-tuned NuminaMath-7B with LoRA to generate executable Python code from LaTeX math. Includes synthetic data generation pipeline and SymPy-based validation.
-
-**Stack:** Unsloth · QLoRA · SymPy · HuggingFace
-
----
-
-### 🔊 Voice TTS Deployments (Fish-Speech & ChatterBox)
-Deployed state-of-the-art open-source TTS models as serverless endpoints on RunPod using Docker multi-stage builds with chunked long-text processing.
-
----
-
-### 🧠 Intelloquium Autonomous Agent
-Autonomous research agent with real-time voice/video assistance, browser automation, full-stack software generation, and MCP server extensibility.
-
----
-
-## 📊 Stats at a Glance
-
-| Metric | Value |
-|--------|-------|
-| PyPI Package Downloads | 8,000+ |
-| Published PyPI Packages | 2 (notebookllm, notebookllm_mcp) |
-| Remote Work Experience | 18 months (Teamlift, US) |
-| Kaggle Status | Expert |
-
----
-
-## 🏢 Experience
-
-**Junior Data Scientist — Teamlift** *(US Remote · Jan 2024 – Dec 2024)*  
-Built end-to-end automated data pipelines with Human-in-the-Loop design. Engineered prompts for skill extraction and implemented function calling for ambiguous skill verification.
-
-**ML Intern — Teamlift** *(US Remote · Jul 2023 – Dec 2023)*  
-Web scraping at scale (Scrapy, Playwright, BeautifulSoup), NER on 100K+ job descriptions, time-series forecasting for job trend prediction.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 NotebookLLM</h3>
+      <p><b>Open-Source PyPI Package + MCP Server</b></p>
+      <p>Makes Jupyter notebooks LLM-efficient. Agent-optimized output cuts tokens up to <b>80%</b> across 8+ formats, with tiktoken budgeting and streaming for 10MB+ notebooks.</p>
+      <p>🏆 <b>10,000+</b> PyPI Downloads</p>
+      <a href="https://github.com/Yasirrazaa/notebookllm">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Archon (Agent Security)</h3>
+      <p><b>Adversarial Robustness Platform</b></p>
+      <p>Scenario-agnostic attacker/defender agents. 8-layer defense pipeline covering OWASP ASI01-10. 2,295 tests at a 93% coverage gate.</p>
+      <p>🏆 Ranked <b>13th Overall (49.7% Win Rate) </b> , <b>18th in Attack (14.4% Win Rate)</b> and <b> 6th in Defense (85.1% Win Rate) </b> in Berkeley's AgentBeats (Lambda Agent Security) competition. </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Chatterbox-Optimized</h3>
+      <p><b>Systems-Level TTS Engine</b></p>
+      <p>Up to <b>4.5× faster inference</b> (RTF 0.59 → 0.13) via bucketed CUDA Graphs, bfloat16, and KV-cache tuning. Zero-hallucination pipeline deployed to RunPod.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧮 Math2Code (RLVR)</h3>
+      <p><b>Verified RL Training Stack</b></p>
+      <p>Built the complete training + evaluation stack for a math LLM (GRPO on TRL). 22,796 deduplicated samples, oracle-verified gold solutions, sandbox pool sustaining 389 exec/s.</p>
+      <p>💰 Trained for <b>&#60; $100</b></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎓 Education & Certifications
+### 🏢 Professional Experience
 
-- **B.Sc. Software Engineering** — NUML, Islamabad *(Graduating 2026)*
-- **Advanced LLM Bootcamp** — NUST & Sky Electric *(2024)*
-- Google: Generative AI Fundamentals · Responsible AI · LLMs
-- DataCamp: Data Scientist Track · Kaggle Expert
+**Junior Data Scientist** @ **Teamlift** *(US Remote)*
+*Jan 2024 – Dec 2024*
+- Scraped and structured thousands of AI tools to power the *Teamo* recommendation engine.
+- Built automated verification pipelines (HTTP checks, freshness validation) eliminating stale entries at scale.
+- Worked directly with US stakeholders, shipping dataset improvements on tight iteration cycles.
+
+**Data Science Intern** @ **Teamlift** *(US Remote)*
+*Jul 2023 – Dec 2023*
+- Engineered robust scraping pipelines for dice.com with deduplication, rate limits, and retries.
+- Trained time-series models on skill-demand signals to forecast market trends and inform product decisions.
 
 ---
 
-## 🤝 Work With Me
+### 📊 By The Numbers
 
-I'm available for freelance projects in:
-- Custom LLM agent systems (LangGraph, LangChain)
-- Voice AI & multimodal agents
-- LLM fine-tuning (LoRA/QLoRA/Unsloth)
-- MCP server / tool development
-- RAG chatbots & document QA systems
+<div align="center">
+  <img src="https://img.shields.io/badge/PyPI_Downloads-10K%2B-blue?style=for-the-badge&logo=pypi" />
+  <img src="https://img.shields.io/badge/Tests_Authored-7,275%2B-success?style=for-the-badge&logo=pytest" />
+  <img src="https://img.shields.io/badge/Kaggle_Medals-13-orange?style=for-the-badge&logo=kaggle" />
+  <img src="https://img.shields.io/badge/AgentBeats_Rank-13th%2F85.1%25-purple?style=for-the-badge" />
+</div>
 
+<br/>
 
-📬 **Email:** yasirabdali6@gmail.com  
+### 📈 GitHub Analytics
 
-💼 **Upwork:** [upwork.com/freelancers/~0136d3079a657bfcbb](https://www.upwork.com/freelancers/~0136d3079a657bfcbb)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yasirrazaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasirrazaa&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+</div>
 
-💼 **Fiverr:** [fiverr.com/sellers/yasirrazaa](https://www.fiverr.com/sellers/yasirrazaa)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yasirrazaa&theme=radical&hide_border=true" />
+</div>
 
-🔗 **LinkedIn:** [linkedin.com/in/yasir-raza](https://www.linkedin.com/in/yasir-raza/)
+---
 
-🔗 **Kaggle:** [kaggle.com/yasirabdaali](https://www.kaggle.com/yasirabdaali)
+### 🤝 Let's Build Something Exceptional
 
-🔗 **PyPi:** [pypi.org/user/yasirabdali6](https://pypi.org/user/yasirabdali6)
+I'm open to consulting and full-time roles in **AI Infrastructure, Agent Security, and Applied LLM Research**.
+
+<div align="center">
+  <a href="https://yasirrazaa.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yasir-raza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/yasirabdaali"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://pypi.org/user/yasirabdali6/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
+  <a href="mailto:yasirabdali6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
