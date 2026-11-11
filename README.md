@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/yasir-raza"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="https://pypi.org/user/yasirabdali6/"><img src="https://img.shields.io/badge/PyPI-10K%2B Downloads-3775A9?style=flat-square&logo=pypi&logoColor=white" /></a>
     <a href="https://www.kaggle.com/yasirabdaali"><img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
-    <a href="https://www.credly.com/badges/claude-certified-developer-foundations"><img src="https://img.shields.io/badge/Claude_Certified-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/claude-certified-developer-foundations"><img src="[https://img.shields.io/badge/Claude_Certified-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white](https://www.credly.com/badges/e1626d6b-ec45-4509-8e37-d931495bacee/public_url)" /></a>
   </p>
 </div>
 
