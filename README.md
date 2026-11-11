@@ -8,13 +8,14 @@
     <a href="https://www.linkedin.com/in/yasir-raza"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="https://pypi.org/user/yasirabdali6/"><img src="https://img.shields.io/badge/PyPI-10K%2B Downloads-3775A9?style=flat-square&logo=pypi&logoColor=white" /></a>
     <a href="https://www.kaggle.com/yasirabdaali"><img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+    <a href="https://www.credly.com/badges/claude-certified-developer-foundations"><img src="https://img.shields.io/badge/Claude_Certified-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
 ### 👨‍💻 The Short Version
-I am an **AI & Research Engineer** bridging the gap between cutting-edge LLM research and hardened production infrastructure. With 1.5+ years of remote experience on US-based teams, I specialize in **Agentic Systems, RLVR (Rule-Based Reinforcement Learning), and GPU-optimized Inference**. 
+I am an **Anthropic-Certified Claude Developer & AI Engineer** bridging the gap between cutting-edge LLM research and hardened production infrastructure. With 1.5+ years of remote experience on US-based teams, I specialize in **Agentic Systems, RLVR (Rule-Based Reinforcement Learning), and GPU-optimized Inference**. 
 
 Whether it's ranking **13th in Berkeley's AgentBeats Security Arena**, cutting TTS inference latency by **4.5x via CUDA Graphs**, or authoring **7,275+ Pytest functions** to guarantee reliability, I ship end-to-end systems that scale.
 
@@ -28,6 +29,19 @@ Whether it's ranking **13th in Berkeley's AgentBeats Security Arena**, cutting T
 | GRPO / RLVR (TRL), LoRA | Docker, RunPod Serverless, AWS | OpenTelemetry, SigNoz Tracing |
 | RAG, Agent Memory, Red-Teaming | CUDA Graphs, bfloat16, KV-Cache | Ruff, Mypy, 93% Coverage Gates |
 | PyTorch, Transformers, Whisper | PostgreSQL (asyncpg), Redis, S3 | Execution-based Eval Harnesses |
+
+---
+
+### 🏅 Verified Credentials
+
+| Credential | Issuer | Status |
+| :--- | :--- | :--- |
+| **Claude Certified Developer – Foundations** | Anthropic | ✅ Proctored exam · 2026 · [Verify on Credly](https://www.credly.com/badges/claude-certified-developer-foundations) |
+| **Aspire Leaders Program — Cohort 4 2026** | Aspire Institute (founded at Harvard) | ⏳ In progress · Leadership & cross-cultural communication |
+| **McKinsey.org Forward Program — Core Skills** | McKinsey.org | ⏳ In progress · Problem solving & digital fluency |
+| **Kaggle 2× Expert** | Kaggle | ✅ Datasets · Notebooks · 13 medals · Rank 731/11,277 |
+| **DataCamp DS/DA Career Tracks** | DataCamp | ✅ Associate Data Scientist · Data Analyst with Python |
+| **Google Cloud Gen AI Badges** | Google Cloud | ✅ 4 skill badges |
 
 ---
 
